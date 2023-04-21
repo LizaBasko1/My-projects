@@ -2,7 +2,7 @@
 ## I'm a Manual/Automation QA Engineer. 
 ## Here are examples of my work as a tester.
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1oEZdliYJmXWqwvEEXaLdM7QiHrVACMrZ/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1Hw44RZ75FqdmFzVSpvRy8Y7k3JKNZ3is/view?usp=share_link)
 
 
 ### Testing Documentation
